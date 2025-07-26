@@ -1,0 +1,338 @@
+{
+  "sofas": [
+    {
+      "name": "Sectional Sofa",
+      "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg",
+      "size": "1 Seater",
+      "color": "Gray",
+      "price": "From $899"
+    },
+    {
+      "name": "Loveseat",
+      "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg",
+      "size": "2 Seater",
+      "color": "Beige",
+      "price": "From $1099"
+    },
+    {
+      "name": "Sleeper Sofa",
+      "image": "https://images.pexels.com/photos/271743/pexels-photo-271743.jpeg",
+      "size": "3 Seater",
+      "color": "Dark Blue",
+      "price": "From $1290"
+    },
+    {
+      "name": "Tuxedo Sofa",
+      "image": "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg",
+      "size": "4 Seater",
+      "color": "Charcoal",
+      "price": "From $1395"
+    },
+    {
+      "name": "Cabriole Sofa",
+      "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
+      "size": "3 Seater",
+      "color": "Ivory",
+      "price": "From $1250"
+    },
+    {
+      "name": "Mid-Century Modern Sofa",
+      "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "size": "5 Seater",
+      "color": "Olive Green",
+      "price": "From $1499"
+    },
+    {
+      "name": "Lawson Sofa",
+      "image": "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg",
+      "size": "6 Seater",
+      "color": "Navy",
+      "price": "From $1599"
+    }
+  ],
+  "bedroom": [
+    {
+      "id": 1,
+      "name": "Bedroom Couple Special-shaped Sofa",
+       "image": "https://encrypted-tbn0.gstatic.com/images?qtbn:ANd9GcTiFHlojTr2wVCm89dCwnevjc7P6ss44moNiw&s"
+    },
+    {
+      "id": 2,
+      "name": "Cabalynn Light Brown Panel Storage Bedroom Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/b/2/b2491-54-64qt_mag20221.webp"
+    },
+    {
+      "id": 3,
+      "name": "Nuala 5 Piece Hand Carved Bedroom Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/b/2/b267-77-74-96-sw_asl20221.webp"
+    },
+    {
+      "id": 4,
+      "name": "Pioneer Burnished Pine Bedroom Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/b/7/b743-21-26-45-87-84-86-91-22_asl20221.webp"
+    },
+    {
+      "id": 5,
+      "name": "Higgins 5-Piece Queen Bedroom Furniture Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/v/i/villaval-studio-br-main_aic20241.webp"
+    },
+    {
+      "id": 6,
+      "name": "Modern Rustic Bedroom Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/c/o/cortina_bedroom_aic20241_1_1.webp"
+    },
+    {
+      "id": 7,
+      "name": "J&M Furniture Nina Modern Bedroom Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/b/7/b743-31-36-46-58-56-97-93-q432_asl20221.webp"
+    }
+  ],
+  "livingroom": [
+    {
+      "id": 1,
+      "name": "Modern Gray Sofa Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/c/a/cali_slate_ren20221.webp"
+    },
+    {
+      "id": 2,
+      "name": "Classic Sectional Sofa",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/r/e/ren-l0094-sec-ren-l00188_ren20231.webp"
+    },
+    {
+      "id": 3,
+      "name": "Contemporary Loveseat",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/c/a/cali_slate_ren20221.webp"
+    },
+    {
+      "id": 4,
+      "name": "Rustic Sofa & Loveseat Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/c/a/cali-brown-sofa-loveseat_ren20251_2_1.webp"
+    },
+    {
+      "id": 5,
+      "name": "Plush Armchair",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/8/7/87213-38-35-20-14-t003_asl20221.webp"
+    },
+    {
+      "id": 6,
+      "name": "Olsberg Steel Living Room",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/2/1/21105-64-46-65-sw-sh_asl20221.webp"
+    },
+    {
+      "id": 7,
+      "name": "Accent Chair with Ottoman",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/7/5/75008-38-set_asl20221.webp"
+    }
+  ],
+  "outdoor": [
+    {
+      "id": 1,
+      "name": "Amish Grand Calumet Solid Oak Outdoor Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/p/7/p791-815_2-702_asl20231.webp"
+    },
+    {
+      "id": 2,
+      "name": "Cabalynn Light Brown Panel Storage Outdoor Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/p/7/p791-625-601-6-umb_asl20221.webp"
+    },
+    {
+      "id": 3,
+      "name": "Nuala 5 Piece Hand Carved Outdoor Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/p/7/p791-773-821-4-on_asl20221.webp"
+    },
+    {
+      "id": 4,
+      "name": "Pioneer Burnished Pine Outdoor Set",
+      "image": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/730x730/17f82f742ffe127f42dca9de82fb58b1/p/7/p791-825_2_702-clsd_asl20241.webp"
+    }
+  ],
+  "bestseller": [
+    {
+      "id": 1,
+      "name": "Koala Sofa Bed",
+      "image": "//au.koala.com/cdn/shop/collections/CushyLuxe_Gumleaf_Queen_8_2.webp?v=1727055315&width=3840",
+      "size": "3 Sizes",
+      "price": "From $1350",
+      "category": "Sofa Beds"
+    },
+    {
+      "id": 2,
+      "name": "Koala Cushy Sofa",
+      "image": "//au.koala.com/cdn/shop/files/PlusMattress_4_1_ca134414-61db-43f8-8835-51271efe47df.jpg?v=1728227443&width=360",
+      "size": "2 Sizes",
+      "price": "From $1450",
+      "category": "Sofas"
+    },
+    {
+      "id": 3,
+      "name": "Timber Sofa 3-Seater",
+      "image": "//au.koala.com/cdn/shop/files/AU_-_The_New_Koala_Mattress_-_Double_-_1_14cc7b35-b07f-4cd8-b9e8-6263a0327b84.webp?v=1728130488&width=3840",
+      "size": "1 Size",
+      "price": "From $1750",
+      "category": "Sofas"
+    },
+    {
+      "id": 4,
+      "name": "Balmy Sofa Bed",
+      "image": "//au.koala.com/cdn/shop/files/ByronSB_3rdG_Blush_Sunset_1.jpg?v=1739505454&width=1920",
+      "size": "3 Sizes",
+      "price": "From $1250",
+      "category": "Sofa Beds"
+    },
+    {
+      "id": 5,
+      "name": "Compact Sofa Bed",
+      "image": "//au.koala.com/cdn/shop/files/Queen_Luxe_Mattress_1_3.webp?v=1728130989&width=3840",
+      "size": "2 Sizes",
+      "price": "From $1190",
+      "category": "Sofa Beds"
+    },
+    {
+      "id": 6,
+      "name": "Modern Lounger Sofa",
+      "image": "//au.koala.com/cdn/shop/files/Greenwattle_3seater_1-3OKzAwBFg0ThpVaEjbLgm8.jpg?v=1725431902&width=1920",
+      "size": "2 Sizes",
+      "price": "From $1550",
+      "category": "Sofas"
+    },
+    {
+      "id": 7,
+      "name": "Cozy Corner Lounge",
+      "image": "//au.koala.com/cdn/shop/files/SEMattress_12_1_869df618-64d5-4f28-b432-ae4aa71c1bd5.jpg?v=1728227524&width=533",
+      "size": "3 Sizes",
+      "price": "From $1650",
+      "category": "Mattresses"
+    },
+    {
+      "id": 8,
+      "name": "Cloud Modular Sofa",
+      "image": "//au.koala.com/cdn/shop/files/Mask_group_1_-2zDIMEZoAbIriKsFUw4Rzm.jpg?v=1725432185&width=1920",
+      "size": "3 Sizes",
+      "price": "From $1490",
+      "category": "Sofas"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Super comfy!",
+      "image": "//au.koala.com/cdn/shop/files/82a016c8-2689-48ab-9465-446b59af0da5.webp?v=1728835440",
+      "data": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt.",
+      "customername": "David",
+      "buyer": "Verified Buyer",
+      "shop": "Shop Koala Sofa Bed"
+    },
+    {
+      "id": 2,
+      "name": "Best sleep ever",
+      "image": "//au.koala.com/cdn/shop/files/3257a0ff-491a-49dc-b026-034c3c390ac5.webp?v=1728632062",
+      "data": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.",
+      "customername": "Emma",
+      "buyer": "Verified Buyer",
+      "shop": "Shop Koala Mattress"
+    },
+    {
+      "id": 3,
+      "name": "Stylish and firm",
+      "image": "//au.koala.com/cdn/shop/files/8ea0748e-8c60-46b1-a9f3-ad5b8a6eff35.webp?v=1728836717",
+      "data": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "customername": "James",
+      "buyer": "Verified Buyer",
+      "shop": "Shop Koala Bed Base"
+    },
+    {
+      "id": 4,
+      "name": "Perfect for guests",
+      "image": "//au.koala.com/cdn/shop/files/0fe80c78-cdad-48d9-b395-4ad76d29c93d.webp?v=1728629161",
+      "data": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.",
+      "customername": "Sophia",
+      "buyer": "Verified Buyer",
+      "shop": "Shop Koala Sofa Bed"
+    },
+    {
+      "id": 5,
+      "name": "Amazing quality",
+      "image": "//au.koala.com/cdn/shop/files/446884b8-c3e4-4a99-8f17-eac1f77d965d.webp?v=1728836308",
+      "data": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+      "customername": "Liam",
+      "buyer": "Verified Buyer",
+      "shop": "Shop Koala Sofa"
+    },
+    {
+      "id": 6,
+      "name": "Game changer",
+      "image": "//au.koala.com/cdn/shop/files/1f1e13d8-c8e0-4996-a8f6-052a0779dab5_1.webp?v=1728837440",
+      "data": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+      "customername": "Olivia",
+      "buyer": "Verified Buyer",
+      "shop": "Shop Koala Mattress"
+    },
+    {
+      "id": 7,
+      "name": "Comfort meets design",
+      "image": "//au.koala.com/cdn/shop/files/fdb4cbea-ebf0-47f7-b853-1c9c3d2092c5.webp?v=1728835358",
+      "data": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "customername": "Noah",
+      "buyer": "Verified Buyer",
+      "shop": "Shop Koala Bed Base"
+    }
+  ],
+  "mattresses": [
+    {
+      "id": 101,
+      "name": "Koala Luxe Mattress",
+      "image": "//au.koala.com/cdn/shop/files/Queen_Luxe_Mattress_1_3.webp?v=1728130989&width=3840",
+      "size": "Queen",
+      "price": "From $1750"
+    },
+    {
+      "id": 102,
+      "name": "Koala SE Mattress",
+      "image": "//au.koala.com/cdn/shop/files/PlusMattress_4_1_ca134414-61db-43f8-8835-51271efe47df.jpg?v=1728227443&width=360",
+      "size": "King",
+      "price": "From $1650"
+    },
+    {
+      "id": 103,
+      "name": "Koala Soul Mate Mattress",
+      "image": "//au.koala.com/cdn/shop/files/AU_-_The_New_Koala_Mattress_-_Double_-_1_14cc7b35-b07f-4cd8-b9e8-6263a0327b84.webp?v=1728130488&width=3840",
+      "size": "Double",
+      "price": "From $1550"
+    },
+    {
+      "id": 104,
+      "name": "Koala Calm As Mattress",
+      "image": "//au.koala.com/cdn/shop/files/SEMattress_12_1_869df618-64d5-4f28-b432-ae4aa71c1bd5.jpg?v=1728227524&width=533",
+      "size": "King",
+      "price": "From $1450"
+    },
+    {
+      "id": 105,
+      "name": "Koala SE Mattress",
+      "image": "//au.koala.com/cdn/shop/files/Queen_Luxe_Mattress_1_3.webp?v=1728130989&width=3840",
+      "size": "Single",
+      "price": "From $1350"
+    },
+    {
+      "id": 106,
+      "name": "Koala Super Dream Mattress",
+      "image": "//au.koala.com/cdn/shop/files/SEMattress_12_1_869df618-64d5-4f28-b432-ae4aa71c1bd5.jpg?v=1728227524&width=533",
+      "size": "King",
+      "price": "From $1850"
+    },
+    {
+      "id": 107,
+      "name": "Koala Plus Mattress",
+      "image": "//au.koala.com/cdn/shop/files/AU_-_The_New_Koala_Mattress_-_Double_-_1_14cc7b35-b07f-4cd8-b9e8-6263a0327b84.webp?v=1728130488&width=3840",
+      "size": "Queen",
+      "price": "From $1690"
+    },
+    {
+      "id": 108,
+      "name": "Koala Flex Mattress",
+      "image": "//au.koala.com/cdn/shop/files/PlusMattress_4_1_ca134414-61db-43f8-8835-51271efe47df.jpg?v=1728227443&width=360",
+      "size": "Double",
+      "price": "From $1390"
+    }
+  ]
+}
